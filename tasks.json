@@ -5,5 +5,12 @@
     "creation_date": "2024-12-10T22:30:13.554938Z",
     "completed_date": null,
     "completed": false
+  },
+  {
+    "title": "Do the dishes",
+    "details": "Please do the dishes!",
+    "creation_date": "2024-12-10T22:43:25.415558Z",
+    "completed_date": null,
+    "completed": false
   }
 ]
